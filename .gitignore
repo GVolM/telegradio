@@ -1,0 +1,6 @@
+
+\.idea/
+*.wav
+*.mts
+*.prproj
+__pycache__/
